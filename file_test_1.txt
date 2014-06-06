@@ -1,3 +1,0 @@
-texto de prueba linea 1
-texto de prueba linea 2
-texto de prueba linea 3
